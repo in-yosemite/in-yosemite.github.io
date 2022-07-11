@@ -1,4 +1,3 @@
-remote_theme: in-yosemite/in-yosemite.github.io
 
 title: Your awesome title
 author: GitHub User
@@ -56,6 +55,7 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
